@@ -89,5 +89,17 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "影視工廠"
     }
-  }
+  },
+  "custom_category": [
+    {
+      "name": "台劇",
+      "type": "tv",
+      "query": "台剧"
+    },
+    {
+      "name": "台片",
+      "type": "movie",
+      "query": "台灣"
+    }
+  ]
 }
